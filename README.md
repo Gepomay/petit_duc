@@ -1,7 +1,4 @@
-Cette étude préliminaire vise à fournir des informations sur les habitats favorables à O. mayottensis. Un suivi acoustique passif a été réalisé à Mayotte dans trois 
-types d'habitats (forêt, mangrove et agroforêt) afin de quantifier l'activité vocale de l'espèce et d'évaluer l'impact de plusieurs variables environnementales sur 
-cette activité. De nouvelles découvertes concernant les vocalisations de l'espèce ont également été rapportées. Les scripts R utilisés pour créer les cartes du site 
-d'étude et l'analyse statistique des données se trouvent dans le dossier "scripts".
+The aim of this preliminary study is to provide information on habitats favourable to O. mayottensis. Passive acoustic monitoring was carried out in Mayotte in three types of habitat (forest, mangrove and agroforest) in order to quantify the vocal activity of the species and to assess the impact of several environmental variables on this activity. New findings concerning the species' vocalisations were also reported. The R scripts used to create the maps of the study site and the statistical analysis of the data can be found in the "scripts" folder.
 
 Concernant les analyses statistiques des données, nous avons défini l'activité vocale d'O. mayottensis comme le pourcentage de temps de chant (PST) enregistré par 
 enregistrement. Le PST étant une proportion, il suit une distribution Bêta. Nous avons également testé la multicollinéarité entre les variables explicatives 
